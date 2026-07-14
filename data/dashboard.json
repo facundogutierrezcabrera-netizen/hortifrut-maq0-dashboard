@@ -1,4 +1,4956 @@
 {
-  "generado_utc": "2026-07-14T18:59:16.127350+00:00",
-  "placeholder": true
+  "generado_utc": "2026-07-14T19:45:02.163102+00:00",
+  "fecha_actual": "08/07/2026",
+  "turno_actual": "Día",
+  "kpis": [
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_total",
+      "nombre": "Stock Total",
+      "valor": 44021.2,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_especie_Arándano",
+      "nombre": "Stock Arándano",
+      "valor": 43806.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_especie_Frambuesa",
+      "nombre": "Stock Frambuesa",
+      "valor": 159.2,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_especie_Mora",
+      "nombre": "Stock Mora",
+      "valor": 56.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Arándano_CD-Formato",
+      "nombre": "Stock Arándano - CD-Formato",
+      "valor": 2832.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Arándano_Convencional",
+      "nombre": "Stock Arándano - Convencional",
+      "valor": 40974.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Frambuesa_CD-Formato",
+      "nombre": "Stock Frambuesa - CD-Formato",
+      "valor": 159.2,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Mora_CD-Formato",
+      "nombre": "Stock Mora - CD-Formato",
+      "valor": 56.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Arándano_fmt_125",
+      "nombre": "Stock Arándano 125gr",
+      "valor": 926.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Arándano_fmt_250",
+      "nombre": "Stock Arándano 250gr",
+      "valor": 1906.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Frambuesa_fmt_170",
+      "nombre": "Stock Frambuesa 170gr",
+      "valor": 159.2,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "stock_Mora_fmt_170",
+      "nombre": "Stock Mora 170gr",
+      "valor": 56.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "mp",
+      "kpi_id": "recepcion_total",
+      "nombre": "MP Total Recepcionada (turno actual)",
+      "valor": 19968.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_ROCIO",
+      "nombre": "MP consumida ROCIO",
+      "valor": 1260.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_ROCIO",
+      "nombre": "Rendimiento ROCIO",
+      "valor": 95.9,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_ROCIO",
+      "nombre": "% Descarte ROCIO",
+      "valor": 0.0,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_IMPERIAL",
+      "nombre": "MP consumida IMPERIAL",
+      "valor": 7367.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_IMPERIAL",
+      "nombre": "Rendimiento IMPERIAL",
+      "valor": 88.9,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_IMPERIAL",
+      "nombre": "% Descarte IMPERIAL",
+      "valor": 6.6,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_KESTREL",
+      "nombre": "MP consumida KESTREL",
+      "valor": 130.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_KESTREL",
+      "nombre": "Rendimiento KESTREL",
+      "valor": 97.8,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_KESTREL",
+      "nombre": "% Descarte KESTREL",
+      "valor": 0.0,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_FCE18-012",
+      "nombre": "MP consumida FCE18-012",
+      "valor": 199.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_FCE18-012",
+      "nombre": "Rendimiento FCE18-012",
+      "valor": 88.6,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_FCE18-012",
+      "nombre": "% Descarte FCE18-012",
+      "valor": 7.5,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_EB 9-2",
+      "nombre": "MP consumida EB 9-2",
+      "valor": 8628.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_EB 9-2",
+      "nombre": "Rendimiento EB 9-2",
+      "valor": 93.5,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_EB 9-2",
+      "nombre": "% Descarte EB 9-2",
+      "valor": 2.2,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_LAZULISKY",
+      "nombre": "MP consumida LAZULISKY",
+      "valor": 2231.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_LAZULISKY",
+      "nombre": "Rendimiento LAZULISKY",
+      "valor": 96.5,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_LAZULISKY",
+      "nombre": "% Descarte LAZULISKY",
+      "valor": 0.1,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "consumida_MILAGRO",
+      "nombre": "MP consumida MILAGRO",
+      "valor": 153.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "rendimiento_MILAGRO",
+      "nombre": "Rendimiento MILAGRO",
+      "valor": 97.8,
+      "meta": 90.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "consumo",
+      "kpi_id": "descarte_MILAGRO",
+      "nombre": "% Descarte MILAGRO",
+      "valor": 0.0,
+      "meta": 5.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_D4",
+      "nombre": "Kg PT línea D4",
+      "valor": 9569.1,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_D1",
+      "nombre": "Kg PT línea D1",
+      "valor": 3110.9,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_01",
+      "nombre": "Kg PT línea 01",
+      "valor": 273.6,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_U1",
+      "nombre": "Kg PT línea U1",
+      "valor": 3734.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_03",
+      "nombre": "Kg PT línea 03",
+      "valor": 4004.7,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_B1",
+      "nombre": "Kg PT línea B1",
+      "valor": 8614.8,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_02",
+      "nombre": "Kg PT línea 02",
+      "valor": 2730.3,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_04",
+      "nombre": "Kg PT línea 04",
+      "valor": 2979.9,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_D5",
+      "nombre": "Kg PT línea D5",
+      "valor": 941.4,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_M1",
+      "nombre": "Kg PT línea M1",
+      "valor": 445.5,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_U2",
+      "nombre": "Kg PT línea U2",
+      "valor": 3745.8,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_U3",
+      "nombre": "Kg PT línea U3",
+      "valor": 3473.6,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_B0",
+      "nombre": "Kg PT línea B0",
+      "valor": 9172.8,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_D3",
+      "nombre": "Kg PT línea D3",
+      "valor": 7388.0,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pt_linea",
+      "kpi_id": "pt_D2",
+      "nombre": "Kg PT línea D2",
+      "valor": 3078.4,
+      "meta": null,
+      "unidad": "kg",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "prod_CD2",
+      "nombre": "Productividad CD2",
+      "valor": 768.7,
+      "meta": 1000.0,
+      "unidad": "kg/h",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "cumpl_CD2",
+      "nombre": "Cumplimiento CD2",
+      "valor": 76.9,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "prod_CD3",
+      "nombre": "Productividad CD3",
+      "valor": 812.4,
+      "meta": 1000.0,
+      "unidad": "kg/h",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "cumpl_CD3",
+      "nombre": "Cumplimiento CD3",
+      "valor": 81.2,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "prod_CD4",
+      "nombre": "Productividad CD4",
+      "valor": 688.6,
+      "meta": 1000.0,
+      "unidad": "kg/h",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "cumpl_CD4",
+      "nombre": "Cumplimiento CD4",
+      "valor": 68.9,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "prod_L4",
+      "nombre": "Productividad L4",
+      "valor": 54.5,
+      "meta": 1000.0,
+      "unidad": "kg/h",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "linea",
+      "kpi_id": "cumpl_L4",
+      "nombre": "Cumplimiento L4",
+      "valor": 5.4,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "prod_CD2",
+      "nombre": "Productividad pesadora CD2",
+      "valor": 7.9,
+      "meta": null,
+      "unidad": "clam/min",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "cumpl_CD2",
+      "nombre": "Cumplimiento pesadora CD2",
+      "valor": 131.7,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "muestras_CD2",
+      "nombre": "Muestras totales CD2",
+      "valor": 21.0,
+      "meta": null,
+      "unidad": "",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top1_CD2",
+      "nombre": "Top 1 CD2 (legajo 1071782898)",
+      "valor": 233.3,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top2_CD2",
+      "nombre": "Top 2 CD2 (legajo 1072494446)",
+      "valor": 183.3,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top3_CD2",
+      "nombre": "Top 3 CD2 (legajo 1076752699)",
+      "valor": 183.3,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "prod_CD3",
+      "nombre": "Productividad pesadora CD3",
+      "valor": 6.0,
+      "meta": null,
+      "unidad": "clam/min",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "cumpl_CD3",
+      "nombre": "Cumplimiento pesadora CD3",
+      "valor": 99.2,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "muestras_CD3",
+      "nombre": "Muestras totales CD3",
+      "valor": 21.0,
+      "meta": null,
+      "unidad": "",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top1_CD3",
+      "nombre": "Top 1 CD3 (legajo 1075151415)",
+      "valor": 150.0,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top2_CD3",
+      "nombre": "Top 2 CD3 (legajo 1071769317)",
+      "valor": 133.3,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top3_CD3",
+      "nombre": "Top 3 CD3 (legajo 1075828321)",
+      "valor": 133.3,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "prod_CD4",
+      "nombre": "Productividad pesadora CD4",
+      "valor": 2.2,
+      "meta": null,
+      "unidad": "clam/min",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "cumpl_CD4",
+      "nombre": "Cumplimiento pesadora CD4",
+      "valor": 21.8,
+      "meta": 100.0,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "bad"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "muestras_CD4",
+      "nombre": "Muestras totales CD4",
+      "valor": 22.0,
+      "meta": null,
+      "unidad": "",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top1_CD4",
+      "nombre": "Top 1 CD4 (legajo 1076392630)",
+      "valor": 30.0,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top2_CD4",
+      "nombre": "Top 2 CD4 (legajo 1074688058)",
+      "valor": 30.0,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    },
+    {
+      "pantalla": "pesadora",
+      "kpi_id": "top3_CD4",
+      "nombre": "Top 3 CD4 (legajo 1072034266)",
+      "valor": 30.0,
+      "meta": null,
+      "unidad": "%",
+      "tendencia": "flat",
+      "estado": "ok"
+    }
+  ],
+  "detalle_stock": [
+    {
+      "fecha": "2026-06-29",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "FCE18-015",
+      "parcela": 63.0,
+      "ic_sap": 9.0,
+      "peso_kg": 32.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-06-29",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "HB161",
+      "parcela": 63.0,
+      "ic_sap": 0.0,
+      "peso_kg": 3.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-06-29",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "HB161",
+      "parcela": 63.0,
+      "ic_sap": 9.0,
+      "peso_kg": 1091.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-06-29",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISKY",
+      "parcela": 46.0,
+      "ic_sap": 7.0,
+      "peso_kg": 1402.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-06-30",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISKY",
+      "parcela": 46.0,
+      "ic_sap": 8.0,
+      "peso_kg": 745.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "BONITA",
+      "parcela": 28.0,
+      "ic_sap": 0.0,
+      "peso_kg": 493.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 461.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 25.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1452.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "IMPERIAL",
+      "parcela": 34.0,
+      "ic_sap": 11.0,
+      "peso_kg": 627.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "KESTREL",
+      "parcela": 44.0,
+      "ic_sap": 11.0,
+      "peso_kg": 94.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISTAR",
+      "parcela": 46.0,
+      "ic_sap": 8.0,
+      "peso_kg": 74.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 29.0,
+      "ic_sap": 11.0,
+      "peso_kg": 149.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 57.0,
+      "ic_sap": 11.0,
+      "peso_kg": 175.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 13.0,
+      "ic_sap": 8.0,
+      "peso_kg": 719.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-01",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 32.0,
+      "ic_sap": 8.0,
+      "peso_kg": 1009.0,
+      "cuenta": 8
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 12.0,
+      "ic_sap": 6.0,
+      "peso_kg": 606.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 15.0,
+      "ic_sap": 6.0,
+      "peso_kg": 146.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "BONITA",
+      "parcela": 28.0,
+      "ic_sap": 0.0,
+      "peso_kg": 562.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "BONITA",
+      "parcela": 30.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1203.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "COSMICA",
+      "parcela": 49.0,
+      "ic_sap": 0.0,
+      "peso_kg": 303.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 345.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 25.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1625.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EMERALD",
+      "parcela": 8.0,
+      "ic_sap": 9.0,
+      "peso_kg": 2046.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "KESTREL",
+      "parcela": 44.0,
+      "ic_sap": 9.0,
+      "peso_kg": 27.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "KESTREL",
+      "parcela": 44.0,
+      "ic_sap": 10.0,
+      "peso_kg": 198.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 33.0,
+      "ic_sap": 9.0,
+      "peso_kg": 408.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 33.0,
+      "ic_sap": 10.0,
+      "peso_kg": 663.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 13.0,
+      "ic_sap": 8.0,
+      "peso_kg": 493.0,
+      "cuenta": 8
+    },
+    {
+      "fecha": "2026-07-02",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "ROCIO",
+      "parcela": 32.0,
+      "ic_sap": 8.0,
+      "peso_kg": 525.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "tratamiento": "No Tratamiento",
+      "variedad": "ROCIO",
+      "parcela": 12.0,
+      "ic_sap": 6.0,
+      "peso_kg": 1154.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "No Tratamiento",
+      "variedad": "ROCIO",
+      "parcela": 13.0,
+      "ic_sap": 8.0,
+      "peso_kg": 93.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "COSMICA",
+      "parcela": 49.0,
+      "ic_sap": 0.0,
+      "peso_kg": 181.0,
+      "cuenta": 3
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 490.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 25.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1547.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 26.0,
+      "ic_sap": 0.0,
+      "peso_kg": 432.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EMERALD",
+      "parcela": 8.0,
+      "ic_sap": 9.0,
+      "peso_kg": 1434.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EMERALD",
+      "parcela": 8.0,
+      "ic_sap": 10.0,
+      "peso_kg": 863.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISUN",
+      "parcela": 46.0,
+      "ic_sap": 7.0,
+      "peso_kg": 135.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISUN",
+      "parcela": 47.0,
+      "ic_sap": 7.0,
+      "peso_kg": 249.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-03",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 33.0,
+      "ic_sap": 9.0,
+      "peso_kg": 1508.0,
+      "cuenta": 8
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 442.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 26.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1270.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EMERALD",
+      "parcela": 8.0,
+      "ic_sap": 9.0,
+      "peso_kg": 2288.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EMERALD",
+      "parcela": 8.0,
+      "ic_sap": 10.0,
+      "peso_kg": 615.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "IMPERIAL",
+      "parcela": 28.0,
+      "ic_sap": 8.0,
+      "peso_kg": 234.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "IMPERIAL",
+      "parcela": 28.0,
+      "ic_sap": 9.0,
+      "peso_kg": 308.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISUN",
+      "parcela": 46.0,
+      "ic_sap": 8.0,
+      "peso_kg": 28.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISUN",
+      "parcela": 47.0,
+      "ic_sap": 7.0,
+      "peso_kg": 72.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 33.0,
+      "ic_sap": 9.0,
+      "peso_kg": 3598.0,
+      "cuenta": 9
+    },
+    {
+      "fecha": "2026-07-04",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 33.0,
+      "ic_sap": 10.0,
+      "peso_kg": 241.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "COSMICA",
+      "parcela": 17.0,
+      "ic_sap": 0.0,
+      "peso_kg": 97.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "DIVINE",
+      "parcela": 8.0,
+      "ic_sap": 0.0,
+      "peso_kg": 59.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 846.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 26.0,
+      "ic_sap": 0.0,
+      "peso_kg": 714.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 27.0,
+      "ic_sap": 0.0,
+      "peso_kg": 193.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "FCM14-057",
+      "parcela": 63.0,
+      "ic_sap": 9.0,
+      "peso_kg": 1318.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISUN",
+      "parcela": 44.0,
+      "ic_sap": 7.0,
+      "peso_kg": 2.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 17.0,
+      "ic_sap": 0.0,
+      "peso_kg": 119.0,
+      "cuenta": 5
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 29.0,
+      "ic_sap": 11.0,
+      "peso_kg": 17.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 31.0,
+      "ic_sap": 11.0,
+      "peso_kg": 100.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-06",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 47.0,
+      "ic_sap": 0.0,
+      "peso_kg": 82.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "125",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 24.0,
+      "ic_sap": 7.0,
+      "peso_kg": 926.0,
+      "cuenta": 3
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "COSMICA",
+      "parcela": 17.0,
+      "ic_sap": 0.0,
+      "peso_kg": 117.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "DIVINE",
+      "parcela": 8.0,
+      "ic_sap": 0.0,
+      "peso_kg": 86.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 3.0,
+      "ic_sap": 0.0,
+      "peso_kg": 399.0,
+      "cuenta": 2
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 26.0,
+      "ic_sap": 0.0,
+      "peso_kg": 1628.0,
+      "cuenta": 7
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "EB 9-2",
+      "parcela": 27.0,
+      "ic_sap": 0.0,
+      "peso_kg": 264.0,
+      "cuenta": 6
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "HB161",
+      "parcela": 63.0,
+      "ic_sap": 9.0,
+      "peso_kg": 1475.0,
+      "cuenta": 4
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "IMPERIAL",
+      "parcela": 50.0,
+      "ic_sap": 8.0,
+      "peso_kg": 68.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "LAZULISKY",
+      "parcela": 46.0,
+      "ic_sap": 7.0,
+      "peso_kg": 387.0,
+      "cuenta": 1
+    },
+    {
+      "fecha": "2026-07-07",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "tratamiento": "Sanitizado",
+      "variedad": "MILAGRO",
+      "parcela": 17.0,
+      "ic_sap": 0.0,
+      "peso_kg": 51.0,
+      "cuenta": 4
+    }
+  ],
+  "stock_resumen": [
+    {
+      "fecha": "2026-06-18",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIREC PROVE CLAM 170G",
+      "variedad": "KOKANEE",
+      "cuartel": 91.0,
+      "peso_kg": 1.2
+    },
+    {
+      "fecha": "2026-06-18",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIREC PROVE CLAM 170G",
+      "variedad": "KOKANEE",
+      "cuartel": 91.0,
+      "peso_kg": 123.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCE18-015",
+      "cuartel": 63.0,
+      "peso_kg": 32.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 26.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 41.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 3.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 303.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 32.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 307.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 382.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 242.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 98.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 144.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 267.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 325.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 25.0
+    },
+    {
+      "fecha": "2026-06-29",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 301.0
+    },
+    {
+      "fecha": "2026-06-30",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 324.0
+    },
+    {
+      "fecha": "2026-06-30",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 421.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 261.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 126.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 238.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 55.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 112.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 334.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 100.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 101.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 100.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 180.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 57.0,
+      "peso_kg": 175.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 23.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 283.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 22.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 34.0,
+      "peso_kg": 136.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 36.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISTAR",
+      "cuartel": 46.0,
+      "peso_kg": 13.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISTAR",
+      "cuartel": 46.0,
+      "peso_kg": 61.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 29.0,
+      "peso_kg": 23.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 153.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 124.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 29.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 85.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 34.0,
+      "peso_kg": 491.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 70.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 29.0,
+      "peso_kg": 23.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 248.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 137.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 29.0,
+      "peso_kg": 45.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 78.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 194.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 109.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 28.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 76.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 168.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 16.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 29.0,
+      "peso_kg": 58.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 69.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 26.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 196.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 232.0
+    },
+    {
+      "fecha": "2026-07-01",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 219.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 90.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 52.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 86.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 48.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 15.0,
+      "peso_kg": 146.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 74.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 253.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 3.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 119.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 258.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 40.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 187.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 63.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 459.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 11.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 394.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 327.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 112.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 132.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 119.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 115.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 30.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 330.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 43.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 89.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 191.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 663.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 24.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 45.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 135.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 29.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 184.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 93.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 543.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 351.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 266.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 135.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 141.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 373.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 67.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 89.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 317.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 95.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 32.0,
+      "peso_kg": 174.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 142.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 7.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 214.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 28.0,
+      "peso_kg": 78.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "BONITA",
+      "cuartel": 30.0,
+      "peso_kg": 294.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 33.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 79.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 35.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 278.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 364.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 6.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 27.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "KESTREL",
+      "cuartel": 44.0,
+      "peso_kg": 33.0
+    },
+    {
+      "fecha": "2026-07-02",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 65.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 129.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 102.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 145.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 246.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 252.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 81.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "250",
+      "material_texto": "ARANDANO COSECHA DIRECTA PUNNET 250 GR",
+      "variedad": "ROCIO",
+      "cuartel": 12.0,
+      "peso_kg": 199.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 34.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 198.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 65.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 43.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 205.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 108.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 288.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 126.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 154.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 302.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 86.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 294.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 91.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 25.0,
+      "peso_kg": 260.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 107.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 108.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 12.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 114.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 121.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 342.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 269.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 90.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 436.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 106.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 73.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 49.0,
+      "peso_kg": 18.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 57.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 77.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 416.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 31.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 25.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 455.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 218.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 11.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 521.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 362.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 422.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 49.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 28.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 51.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 66.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 65.0
+    },
+    {
+      "fecha": "2026-07-03",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "ROCIO",
+      "cuartel": 13.0,
+      "peso_kg": 28.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 117.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 172.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 44.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 233.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 189.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 136.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 71.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 337.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 100.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 222.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 91.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 28.0,
+      "peso_kg": 166.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 119.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 324.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 214.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 146.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 27.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 28.0,
+      "peso_kg": 68.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 9.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 18.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 46.0,
+      "peso_kg": 10.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 300.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 564.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 184.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 28.0,
+      "peso_kg": 144.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 291.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 13.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 31.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 634.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 392.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 28.0,
+      "peso_kg": 164.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 357.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 122.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 642.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 674.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 47.0,
+      "peso_kg": 19.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 379.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 623.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 33.0,
+      "peso_kg": 96.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 645.0
+    },
+    {
+      "fecha": "2026-07-04",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EMERALD",
+      "cuartel": 8.0,
+      "peso_kg": 9.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 61.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCM14-057",
+      "cuartel": 63.0,
+      "peso_kg": 57.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 203.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 39.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 23.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 37.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 133.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 18.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 87.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCM14-057",
+      "cuartel": 63.0,
+      "peso_kg": 199.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 28.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 32.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 143.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 212.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 19.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCM14-057",
+      "cuartel": 63.0,
+      "peso_kg": 553.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 23.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 212.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 133.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 12.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 19.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 63.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCM14-057",
+      "cuartel": 63.0,
+      "peso_kg": 324.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 38.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 9.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "FCM14-057",
+      "cuartel": 63.0,
+      "peso_kg": 185.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 90.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 94.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 223.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 14.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 4.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 47.0,
+      "peso_kg": 46.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "DIVINE",
+      "cuartel": 8.0,
+      "peso_kg": 59.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 47.0,
+      "peso_kg": 36.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISUN",
+      "cuartel": 44.0,
+      "peso_kg": 2.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 31.0,
+      "peso_kg": 100.0
+    },
+    {
+      "fecha": "2026-07-06",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 29.0,
+      "peso_kg": 17.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "125",
+      "material_texto": "ARANDANO COSECHA DIRECTA CLAMSHELL12X125",
+      "variedad": "EB 9-2",
+      "cuartel": 24.0,
+      "peso_kg": 186.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "125",
+      "material_texto": "ARANDANO COSECHA DIRECTA CLAMSHELL12X125",
+      "variedad": "EB 9-2",
+      "cuartel": 24.0,
+      "peso_kg": 375.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "125",
+      "material_texto": "ARANDANO COSECHA DIRECTA CLAMSHELL12X125",
+      "variedad": "EB 9-2",
+      "cuartel": 24.0,
+      "peso_kg": 365.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 323.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 16.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 275.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 5.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 30.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 17.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 135.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 3.0,
+      "peso_kg": 124.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 39.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 403.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 164.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 46.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 9.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 17.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 607.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 348.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 35.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 14.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 7.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "HB161",
+      "cuartel": 63.0,
+      "peso_kg": 460.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 392.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 64.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 103.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 27.0,
+      "peso_kg": 64.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "EB 9-2",
+      "cuartel": 26.0,
+      "peso_kg": 163.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "MILAGRO",
+      "cuartel": 17.0,
+      "peso_kg": 18.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "COSMICA",
+      "cuartel": 17.0,
+      "peso_kg": 56.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "DIVINE",
+      "cuartel": 8.0,
+      "peso_kg": 86.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "IMPERIAL",
+      "cuartel": 50.0,
+      "peso_kg": 68.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Arándano",
+      "tipo_cosecha": "Convencional",
+      "formato_gr": "",
+      "material_texto": "ARANDANO COSECHA GRANEL",
+      "variedad": "LAZULISKY",
+      "cuartel": 46.0,
+      "peso_kg": 387.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIRECTA CLAMSHELL 170G",
+      "variedad": "CENTENNIAL",
+      "cuartel": 56.0,
+      "peso_kg": 8.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIRECTA CLAMSHELL 170G",
+      "variedad": "CENTENNIAL",
+      "cuartel": 56.0,
+      "peso_kg": 8.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIRECTA CLAMSHELL 170G",
+      "variedad": "CENTENNIAL",
+      "cuartel": 56.0,
+      "peso_kg": 11.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Frambuesa",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "FRAMBUESA COSECHA DIRECTA CLAMSHELL 170G",
+      "variedad": "CENTENNIAL",
+      "cuartel": 56.0,
+      "peso_kg": 8.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 19.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 6.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 9.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 12.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 4.0
+    },
+    {
+      "fecha": "2026-07-07",
+      "especie": "Mora",
+      "tipo_cosecha": "CD-Formato",
+      "formato_gr": "170",
+      "material_texto": "MORA COSECHA DIRECTA CLAMSHELL170",
+      "variedad": "FENOMENAL",
+      "cuartel": 55.0,
+      "peso_kg": 6.0
+    }
+  ],
+  "avance": {
+    "fecha_zsd": "2026-07-07",
+    "turno_zsd": "NOCHE",
+    "general": {
+      "produccion_total_kg": 44845.6,
+      "cajas_producidas": 17430,
+      "pallets_producidos": 102,
+      "mercados_totales": 8,
+      "clientes_totales": 15,
+      "fecha_fabricacion": "2026-07-07",
+      "turno": "NOCHE"
+    },
+    "peru": {
+      "produccion_peru_kg": 5116.1,
+      "cajas_peru": 1907,
+      "pallets_peru": 33,
+      "clientes_peru": 5
+    },
+    "por_mercado": [
+      {
+        "mercado": "TAIWAN",
+        "cajas": 4284,
+        "pct": 24.6
+      },
+      {
+        "mercado": "CHINA",
+        "cajas": 3336,
+        "pct": 19.1
+      },
+      {
+        "mercado": "EUROPE",
+        "cajas": 2544,
+        "pct": 14.6
+      },
+      {
+        "mercado": "UK",
+        "cajas": 2342,
+        "pct": 13.4
+      },
+      {
+        "mercado": "USA",
+        "cajas": 2222,
+        "pct": 12.7
+      },
+      {
+        "mercado": "PERU",
+        "cajas": 1907,
+        "pct": 10.9
+      },
+      {
+        "mercado": "INDIA",
+        "cajas": 480,
+        "pct": 2.8
+      },
+      {
+        "mercado": "SINGAPORE",
+        "cajas": 315,
+        "pct": 1.8
+      }
+    ],
+    "sku_cliente": [
+      {
+        "cliente": "COSTCO USA",
+        "sku": "BCH12510NFNFBP",
+        "cajas": 87,
+        "pallets": 1,
+        "scope": "general"
+      },
+      {
+        "cliente": "COSTCO USA",
+        "sku": "BCH12510NFNFST",
+        "cajas": 375,
+        "pallets": 4,
+        "scope": "general"
+      },
+      {
+        "cliente": "FRESHMART SINGAPORE PTE LTD",
+        "sku": "BCC12278NFMBST",
+        "cajas": 315,
+        "pallets": 3,
+        "scope": "general"
+      },
+      {
+        "cliente": "IG INTERNATIONAL",
+        "sku": "BCC12125NFJBST",
+        "cajas": 480,
+        "pallets": 2,
+        "scope": "general"
+      },
+      {
+        "cliente": "JOY WING MAU",
+        "sku": "BCC12125JVJVAM",
+        "cajas": 2445,
+        "pallets": 9,
+        "scope": "general"
+      },
+      {
+        "cliente": "JOY WING MAU",
+        "sku": "BCC12125NFJBAM",
+        "cajas": 436,
+        "pallets": 3,
+        "scope": "general"
+      },
+      {
+        "cliente": "JOY WING MAU",
+        "sku": "BCC12125NFJBFP",
+        "cajas": 455,
+        "pallets": 2,
+        "scope": "general"
+      },
+      {
+        "cliente": "KEELINGS",
+        "sku": "BCB03600PBNLBP",
+        "cajas": 2342,
+        "pallets": 10,
+        "scope": "general"
+      },
+      {
+        "cliente": "LICA FRESH CO., LTD.",
+        "sku": "BCC12125NFNFAM",
+        "cajas": 3483,
+        "pallets": 10,
+        "scope": "general"
+      },
+      {
+        "cliente": "LICA FRESH CO., LTD.",
+        "sku": "BCC12125NFNFFP",
+        "cajas": 121,
+        "pallets": 1,
+        "scope": "general"
+      },
+      {
+        "cliente": "MERCADONA",
+        "sku": "BCB03600PBNLBP",
+        "cajas": 2544,
+        "pallets": 10,
+        "scope": "general"
+      },
+      {
+        "cliente": "NATURIPE FARMS",
+        "sku": "BCC12004NFNFST",
+        "cajas": 910,
+        "pallets": 7,
+        "scope": "general"
+      },
+      {
+        "cliente": "NRF TIER I",
+        "sku": "BCC12278NFMBST",
+        "cajas": 850,
+        "pallets": 5,
+        "scope": "general"
+      },
+      {
+        "cliente": "SHINE FOOD",
+        "sku": "BCC12125NFJBAM",
+        "cajas": 680,
+        "pallets": 2,
+        "scope": "general"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "BCB03600PBNLST",
+        "cajas": 1,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "BCC08510NFNFST",
+        "cajas": 10,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "BCC12125BLHFST",
+        "cajas": 10,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "MCC12100NFZHST",
+        "cajas": 2,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "RCC12125NFHFST",
+        "cajas": 3,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "XCC01350NFHFST",
+        "cajas": 2,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "XCC01400NFHFST",
+        "cajas": 7,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "XCC12125NFHFST",
+        "cajas": 2,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "XCJ00525KFHFST",
+        "cajas": 2,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "BERRYHOUSE",
+        "sku": "XCJ00750KFHFST",
+        "cajas": 5,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "CENCOSUD",
+        "sku": "BCC09900CBHFST",
+        "cajas": 35,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "CENCOSUD",
+        "sku": "BCY08210NFNLST",
+        "cajas": 40,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "CENCOSUD",
+        "sku": "MCC12100NFZHST",
+        "cajas": 3,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "MAKRO SUPERMAYORISTA",
+        "sku": "BCC09900CBARST",
+        "cajas": 20,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "MAKRO SUPERMAYORISTA",
+        "sku": "BCC12250BLARST",
+        "cajas": 12,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "BCC08500BLBEST",
+        "cajas": 503,
+        "pallets": 4,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "BCC09900CBBEST",
+        "cajas": 35,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "BCC12100BLBEST",
+        "cajas": 581,
+        "pallets": 3,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "BCC12300BLBEST",
+        "cajas": 245,
+        "pallets": 2,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "MCC12100NFBEST",
+        "cajas": 11,
+        "pallets": 1,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "XCC09320BLBEST",
+        "cajas": 6,
+        "pallets": 2,
+        "scope": "peru"
+      },
+      {
+        "cliente": "SUPERMERCADOS PERUANOS",
+        "sku": "XCC09340BLBEST",
+        "cajas": 9,
+        "pallets": 2,
+        "scope": "peru"
+      },
+      {
+        "cliente": "TOTTUS",
+        "sku": "BCC12125BLTTST",
+        "cajas": 363,
+        "pallets": 3,
+        "scope": "peru"
+      }
+    ],
+    "por_linea": [
+      {
+        "linea": "D4",
+        "cajas": 3366
+      },
+      {
+        "linea": "B0",
+        "cajas": 2545
+      },
+      {
+        "linea": "B1",
+        "cajas": 2342
+      },
+      {
+        "linea": "U1",
+        "cajas": 1854
+      },
+      {
+        "linea": "U2",
+        "cajas": 1813
+      },
+      {
+        "linea": "03",
+        "cajas": 1790
+      },
+      {
+        "linea": "U3",
+        "cajas": 990
+      },
+      {
+        "linea": "D3",
+        "cajas": 709
+      },
+      {
+        "linea": "02",
+        "cajas": 502
+      },
+      {
+        "linea": "D1",
+        "cajas": 497
+      },
+      {
+        "linea": "D5",
+        "cajas": 449
+      },
+      {
+        "linea": "D2",
+        "cajas": 390
+      },
+      {
+        "linea": "M1",
+        "cajas": 107
+      },
+      {
+        "linea": "01",
+        "cajas": 76
+      }
+    ],
+    "por_sku": [
+      {
+        "sku": "BCB03600PBNLBP",
+        "cajas": 4886
+      },
+      {
+        "sku": "BCC12125NFNFAM",
+        "cajas": 3483
+      },
+      {
+        "sku": "BCC12125JVJVAM",
+        "cajas": 2445
+      },
+      {
+        "sku": "BCC12278NFMBST",
+        "cajas": 1165
+      },
+      {
+        "sku": "BCC12125NFJBAM",
+        "cajas": 1116
+      },
+      {
+        "sku": "BCC12004NFNFST",
+        "cajas": 910
+      },
+      {
+        "sku": "BCC12100BLBEST",
+        "cajas": 581
+      },
+      {
+        "sku": "BCC08500BLBEST",
+        "cajas": 503
+      },
+      {
+        "sku": "BCC12125NFJBST",
+        "cajas": 480
+      },
+      {
+        "sku": "BCC12125NFJBFP",
+        "cajas": 455
+      },
+      {
+        "sku": "BCH12510NFNFST",
+        "cajas": 375
+      },
+      {
+        "sku": "BCC12125BLTTST",
+        "cajas": 363
+      },
+      {
+        "sku": "BCC12300BLBEST",
+        "cajas": 245
+      },
+      {
+        "sku": "BCC12125NFNFFP",
+        "cajas": 121
+      },
+      {
+        "sku": "BCH12510NFNFBP",
+        "cajas": 87
+      },
+      {
+        "sku": "BCY08210NFNLST",
+        "cajas": 40
+      },
+      {
+        "sku": "BCC09900CBHFST",
+        "cajas": 35
+      },
+      {
+        "sku": "BCC09900CBBEST",
+        "cajas": 35
+      },
+      {
+        "sku": "BCC09900CBARST",
+        "cajas": 20
+      },
+      {
+        "sku": "BCC12250BLARST",
+        "cajas": 12
+      },
+      {
+        "sku": "MCC12100NFBEST",
+        "cajas": 11
+      },
+      {
+        "sku": "BCC08510NFNFST",
+        "cajas": 10
+      },
+      {
+        "sku": "BCC12125BLHFST",
+        "cajas": 10
+      },
+      {
+        "sku": "XCC09340BLBEST",
+        "cajas": 9
+      },
+      {
+        "sku": "XCC01400NFHFST",
+        "cajas": 7
+      },
+      {
+        "sku": "XCC09320BLBEST",
+        "cajas": 6
+      },
+      {
+        "sku": "MCC12100NFZHST",
+        "cajas": 5
+      },
+      {
+        "sku": "XCJ00750KFHFST",
+        "cajas": 5
+      },
+      {
+        "sku": "RCC12125NFHFST",
+        "cajas": 3
+      },
+      {
+        "sku": "XCC12125NFHFST",
+        "cajas": 2
+      },
+      {
+        "sku": "XCC01350NFHFST",
+        "cajas": 2
+      },
+      {
+        "sku": "XCJ00525KFHFST",
+        "cajas": 2
+      },
+      {
+        "sku": "BCB03600PBNLST",
+        "cajas": 1
+      }
+    ]
+  }
 }
